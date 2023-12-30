@@ -7,6 +7,7 @@ Screen::Screen()
 {
 	m_Width = 0;
 	m_Height = 0;
+	m_DefaultAspectRatio = 0;
 	m_OutputBuffer = nullptr;
 	m_ZBuffer = nullptr;
 }
