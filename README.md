@@ -15,7 +15,7 @@ Project is inspired by [this](https://www.a1k0n.net/2011/07/20/donut-math.html) 
 
 ## Preview
 
-![](https://github.com/Filipeak/console-3d-renderer/tree/main/res/Animation.gif)
+![](https://github.com/Filipeak/console-3d-renderer/blob/main/res/Animation.gif)
  
 ## Resources
 
